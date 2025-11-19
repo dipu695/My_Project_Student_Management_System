@@ -27,7 +27,6 @@ Inside this folder you will find:
 - `libgcc_s_seh-1.dll`
 - `libstdc++-6.dll`
 - `libwinpthread-1.dll`
-- `students.txt` NB after run the exe file 
 
 
 ### ✔ 2. Make sure all these files stay in the same folder
